@@ -2,7 +2,7 @@ import telebot
 import sqlite3
 
 # Токен
-bot = telebot.TeleBot('7466963574:AAFjU-beISBHCgRCUm5coYOqEayo38PUzqc')
+bot = telebot.TeleBot('7488382741:AAE8N7JvcjZkqTobvkI_iRn7W3msCphOtcw')
 
 # Подключение к базе данных
 conn = sqlite3.connect('notes.db', check_same_thread=False)
