@@ -1,6 +1,5 @@
 import telebot
 import sqlite3
-from telebot import types
 
 # Токен
 bot = telebot.TeleBot('7466963574:AAFjU-beISBHCgRCUm5coYOqEayo38PUzqc')
